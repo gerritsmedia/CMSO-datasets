@@ -1,116 +1,116 @@
-ONTOLOGY SOURCE REFERENCE
-Term Source Name	"MESH"	"UBERON"	"CLO"	"PLOSTHES"	
-Term Source File	"http://data.bioontology.org/ontologies/MESH"	"http://data.bioontology.org/ontologies/UBERON"	"http://data.bioontology.org/ontologies/CLO"	"http://data.bioontology.org/ontologies/PLOSTHES"	
-Term Source Version	"11"	"244"	"53"	"7"	
-Term Source Description	"Medical Subject Headings"	"Uber Anatomy Ontology"	"Cell Line Ontology"	"PLOS Thesaurus"	
-INVESTIGATION
-Investigation Identifier	"2018_3DsphInvasion"
-Investigation Title	"2018_3DsphInvasion_HT1080_Collagen"
-Investigation Description	"3D multicellular spheroid invasion assay and analysis, following the standardized Multimot protocol from workpackage 6, applied to the HT1080 fibrosarcoma cell line. The invasion phenotype was modulated by the collagen matrix density, by using two different concentrations of collagen solution."
-Investigation Submission Date	"2018-09-21"
-Investigation Public Release Date	"2019-04-04"
-Comment[Investigation Conclusions]	"Data can be uploaded but not all fields can be changed."
-Comment[Created with configuration]	""
-Comment[Last Opened With Configuration]	""
-Comment[ISA-Tab Files Version]	""
-Comment[Created With Configuration]	""
-INVESTIGATION PUBLICATIONS
-Investigation PubMed ID	""
-Investigation Publication DOI	""
-Investigation Publication Author List	""
-Investigation Publication Title	""
-Investigation Publication Status	""
-Investigation Publication Status Term Accession Number	""
-Investigation Publication Status Term Source REF	""
-INVESTIGATION CONTACTS
-Investigation Person Last Name	"Bakker"
-Investigation Person First Name	"Gert-Jan"
-Investigation Person Mid Initials	""
-Investigation Person Email	"gert-jan.bakker@radboudumc.nl"
-Investigation Person Phone	""
-Investigation Person Fax	""
-Investigation Person Address	""
-Investigation Person Affiliation	"Radboudumc"
-Investigation Person Roles	"Work package 6"
-Investigation Person Roles Term Accession Number	""
-Investigation Person Roles Term Source REF	""
-STUDY
-Study Identifier	"2018_3DsphInvasion_HT1080_Collagen"
-Study Title	"Standardized 3D culture and analysis of HT1080 fibrosarcoma spheroid invasion assay."
-Study Description	"3D multicellular spheroid invasion assay and analysis, following the standardized Multimot protocol from workpackage 6, applied to the HT1080 fibrosarcoma cell line. The invasion phenotype was modulated by the collagen matrix density, by using two different concentrations of collagen solution. The low concentration resulted in a more single cell invasion phenotype, while the high concentration induced a more collective invasion phenotype."
-Study Submission Date	"2018-09-21"
-Study Public Release Date	"2019-04-04"
-Study File Name	"s_2018_3DsphInvasion_HT1080_Collagen.txt"
-Comment[Funding Organization Name]	"EU, Horizon 2020"
-Comment[Funding Organization Identifier]	"http://dx.doi.org/10.13039/100010661,Horizon 2020 Framework Programme"
-Comment[Grant Identifier]	"MULTIMOT, PHC-32-2014"
-Comment[Grant Name]	"Capture, dissemination and analysis of multiscale cell migration data for biological and clinical applications (MULTIMOT)."
-Comment[Basic Approach]	"FBbi:single-spot confocal microscopy;RH-MESH:Microscopy, Confocal;RH-MESH:Cell Culture Techniques;CCONT:cell culture;BIOMODELS:spheroid;DCM:Segmentation"
-Comment[Study Conclusions]	"For HT1080 fibrasarcoma, the low collagen matrix density resulted in a more single cell invasion phenotype, while the high concentration induced a more collective invasion phenotype. Thereby, the results are in line with previous observations [A. Haeger et al., Biochimica et Biophysica Acta 1840 (2014) 2386–2395]"
-Comment[MIACME Version]	"0.3"
-Comment[MIACME Compliance]	"yes"
-Comment[License for the whole dataset]	"BY"
-Comment[Number of subjects]	"1 cell line"
-Comment[Number of biological replicates]	"3"
-Comment[Number of technical replicates]	"3 up to 5"
-Comment[Number of raw images]	"30 multidimensional datafiles of 30 spheroids, including isotype control"
-Comment[License for raw images]	"BY"
-Comment[Number of processed images]	"24 multidimensional datafiles of 24 spheroids"
-Comment[License for processed images]	"BY"
-Comment[Extracted Features]	"Nucleus coordinates, nucleus volume, nucleus surface, segment related intensity parameters derived from different channels and cellular segments, number of migrated single cells, number of migrated cells, cell migration distance, nearest neigbor distance, local cell density."
-Comment[License for the extracted features]	"BY"
-Comment[Extracted features curation process]	"BY"
-STUDY DESIGN DESCRIPTORS
-Study Design Type	""
-Study Design Type Term Accession Number	""
-Study Design Type Term Source REF	""
-STUDY PUBLICATIONS
-Study PubMed ID	"24721714"
-Study Publication DOI	"10.1016/j.bbagen.2014.03.020"
-Study Publication Author List	"Haeger A, Krause M, Wolf K, Friedl P."
-Study Publication Title	"Cell jamming: collective invasion of mesenchymal tumor cells imposed by tissue confinement."
-Study Publication Status	"Published"
-Study Publication Status Term Accession Number	""
-Study Publication Status Term Source REF	""
-STUDY FACTORS
-Study Factor Name	"Rattail collagen type I concentration (mg/ml)"
-Study Factor Type	"physical"
-Study Factor Type Term Accession Number	""
-Study Factor Type Term Source REF	""
-STUDY ASSAYS
-Study Assay File Name	"a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N2.txt"	"a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N3.txt"	"a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N4.txt"
-Study Assay Measurement Type	"spheroid invasion assay"	"spheroid invasion assay"	"spheroid invasion assay"
-Study Assay Measurement Type Term Accession Number	""	""	""
-Study Assay Measurement Type Term Source REF	""	""	""
-Study Assay Technology Type	"microscopy imaging"	"microscopy imaging"	"microscopy imaging"
-Study Assay Technology Type Term Accession Number	""	""	""
-Study Assay Technology Type Term Source REF	""	""	""
-Study Assay Technology Platform	""	""	""
-STUDY PROTOCOLS
-Study Protocol Name	"Appendix II Microscopy.pdf"	"Appendix III Image analysis (Extended).pdf"	"Appendix I 3D spheroid culture.pdf"	"imaging"	"data transformation"
-Study Protocol Type	"imaging"	"data transformation"	"wet lab"	"imaging"	"data transformation"
-Study Protocol Type Term Accession Number	""	""	""	""	""
-Study Protocol Type Term Source REF	""	""	""	""	""
-Study Protocol Description	"Laser scanning confocal imaging of 3D samples"	"Segmentation, classification and feature extraction."	"3D cell culture, fixation and immunolabeling"	""	""
-Study Protocol URI	""	"https://github.com/Mverp/Cell3DMeasurements"	""	""	""
-Study Protocol Version	"1"	"1"	"1"	""	""
-Study Protocol Parameters Name	"imaging sequence type;pixel size;observation period;imaging modality;channel definition;time series interval;objective lens;numerical aperture"	"segmentation;segmentation; SWO"	"3D spheroid culture; Co-culture; hanging drop assay; rattail collagen I; pharmacological inhibitor; PFA fixation; immunofluorescent labeling; YAP mAb; DAPI, phalloidin."	"imaging sequence type;pixel size;observation period;imaging modality;channel definition;time series interval;objective lens;numerical aperture"	""
-Study Protocol Parameters Name Term Accession Number	";;;;;;;"	";;"	";;;;;;;;"	";;;;;;;"	""
-Study Protocol Parameters Name Term Source REF	";;;;;;;"	";;"	";;;;;;;;"	";;;;;;;"	""
-Study Protocol Components Name	""	"Nucleus localization; nucleus segmentation; cell segmentation; classification of migration modes; feature extraction."	"Preparation of Methylcellulose; Cell culture; Generation of 3D spheroids; Spheroid embedding in 3D collagen; Fixation and immunofluorescent staining; Adaptations of the standardized protocols to other cell lines and organoid culture.   "	""	""
-Study Protocol Components Type	""	""	""	""	""
-Study Protocol Components Type Term Accession Number	""	""	""	""	""
-Study Protocol Components Type Term Source REF	""	""	""	""	""
-STUDY CONTACTS
-Study Person Last Name	"Bakker"	"Vullings"	"Erp"
-Study Person First Name	"Gert-Jan"	"Manon"	"Merijn"
-Study Person Mid Initials	""	""	"van"
-Study Person Email	"gert-jan.bakker@radboudumc.nl"	"manon.vullings@radboudumc.nl"	"merijn.vanerp@radboudumc.nl"
-Study Person Phone	"+31(0)24 36 14296"	""	""
-Study Person Fax	""	""	""
-Study Person Address	""	""	""
-Study Person Affiliation	"Radboud University Medical Center"	"Radboud University Medical Center"	"Radboud University Medical Center"
-Study Person Roles	"Coordination, reporting, data analysis"	" excecution assay, imaging"	" programming and development analysis pipeline"
-Study Person Roles Term Accession Number	""	""	""
-Study Person Roles Term Source REF	""	""	""
-Comment[Study Person Identifier]	"GJB"	"MV"	"MVE"
+ONTOLOGY SOURCE REFERENCE					
+Term Source Name	MESH	UBERON	CLO	PLOSTHES	
+Term Source File	http://data.bioontology.org/ontologies/MESH	http://data.bioontology.org/ontologies/UBERON	http://data.bioontology.org/ontologies/CLO	http://data.bioontology.org/ontologies/PLOSTHES	
+Term Source Version	11	244	53	7	
+Term Source Description	Medical Subject Headings	Uber Anatomy Ontology	Cell Line Ontology	PLOS Thesaurus	
+INVESTIGATION					
+Investigation Identifier	2018_3DsphInvasion				
+Investigation Title	2018_3DsphInvasion_HT1080_Collagen				
+Investigation Description	3D multicellular spheroid invasion assay and analysis, following the standardized Multimot protocol from workpackage 6, applied to the HT1080 fibrosarcoma cell line. The invasion phenotype was modulated by the collagen matrix density, by using two different concentrations of collagen solution.				
+Investigation Submission Date	21-9-2018				
+Investigation Public Release Date	4-4-2019				
+Comment[Investigation Conclusions]	Data can be uploaded but not all fields can be changed.				
+Comment[Created with configuration]					
+Comment[Last Opened With Configuration]					
+Comment[ISA-Tab Files Version]					
+Comment[Created With Configuration]					
+INVESTIGATION PUBLICATIONS					
+Investigation PubMed ID					
+Investigation Publication DOI					
+Investigation Publication Author List					
+Investigation Publication Title					
+Investigation Publication Status					
+Investigation Publication Status Term Accession Number					
+Investigation Publication Status Term Source REF					
+INVESTIGATION CONTACTS					
+Investigation Person Last Name	Bakker				
+Investigation Person First Name	Gert-Jan				
+Investigation Person Mid Initials					
+Investigation Person Email	gert-jan.bakker@radboudumc.nl				
+Investigation Person Phone					
+Investigation Person Fax					
+Investigation Person Address					
+Investigation Person Affiliation	Radboudumc				
+Investigation Person Roles	Work package 6				
+Investigation Person Roles Term Accession Number					
+Investigation Person Roles Term Source REF					
+STUDY					
+Study Identifier	2018_3DsphInvasion_HT1080_Collagen				
+Study Title	Standardized 3D culture and analysis of HT1080 fibrosarcoma spheroid invasion assay.				
+Study Description	3D multicellular spheroid invasion assay and analysis, following the standardized Multimot protocol from workpackage 6, applied to the HT1080 fibrosarcoma cell line. The invasion phenotype was modulated by the collagen matrix density, by using two different concentrations of collagen solution. The low concentration resulted in a more single cell invasion phenotype, while the high concentration induced a more collective invasion phenotype.				
+Study Submission Date	21-9-2018				
+Study Public Release Date	4-4-2019				
+Study File Name	s_2018_3DsphInvasion_HT1080_Collagen.txt				
+Comment[Funding Organization Name]	EU, Horizon 2020				
+Comment[Funding Organization Identifier]	http://dx.doi.org/10.13039/100010661,Horizon 2020 Framework Programme				
+Comment[Grant Identifier]	MULTIMOT, PHC-32-2014				
+Comment[Grant Name]	Capture, dissemination and analysis of multiscale cell migration data for biological and clinical applications (MULTIMOT).				
+Comment[Basic Approach]	"FBbi:single-spot confocal microscopy;RH-MESH:Microscopy, Confocal;RH-MESH:Cell Culture Techniques;CCONT:cell culture;BIOMODELS:spheroid;DCM:Segmentation"				
+Comment[Study Conclusions]	For HT1080 fibrasarcoma, the low collagen matrix density resulted in a more single cell invasion phenotype, while the high concentration induced a more collective invasion phenotype. Thereby, the results are in line with previous observations [A. Haeger et al., Biochimica et Biophysica Acta 1840 (2014) 2386–2395]				
+Comment[MIACME Version]	0.3				
+Comment[MIACME Compliance]	yes				
+Comment[License for the whole dataset]	BY				
+Comment[Number of subjects]	1 cell line				
+Comment[Number of biological replicates]	3				
+Comment[Number of technical replicates]	3 up to 5				
+Comment[Number of raw images]	30 multidimensional datafiles of 30 spheroids, including isotype control				
+Comment[License for raw images]	BY				
+Comment[Number of processed images]	24 multidimensional datafiles of 24 spheroids				
+Comment[License for processed images]	BY				
+Comment[Extracted Features]	Nucleus coordinates, nucleus volume, nucleus surface, segment related intensity parameters derived from different channels and cellular segments, number of migrated single cells, number of migrated cells, cell migration distance, nearest neigbor distance, local cell density.				
+Comment[License for the extracted features]	BY				
+Comment[Extracted features curation process]	BY				
+STUDY DESIGN DESCRIPTORS					
+Study Design Type					
+Study Design Type Term Accession Number					
+Study Design Type Term Source REF					
+STUDY PUBLICATIONS					
+Study PubMed ID	24721714				
+Study Publication DOI	10.1016/j.bbagen.2014.03.020				
+Study Publication Author List	Haeger A, Krause M, Wolf K, Friedl P.				
+Study Publication Title	Cell jamming: collective invasion of mesenchymal tumor cells imposed by tissue confinement.				
+Study Publication Status	Published				
+Study Publication Status Term Accession Number					
+Study Publication Status Term Source REF					
+STUDY FACTORS					
+Study Factor Name	Rattail collagen type I concentration (mg/ml)				
+Study Factor Type	physical				
+Study Factor Type Term Accession Number					
+Study Factor Type Term Source REF					
+STUDY ASSAYS					
+Study Assay File Name	a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N2.txt	a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N3.txt	a_2018_3dsphinvasion_ht1080_collagen_spheroid_invasion_assay_microscopy_imaging-N4.txt		
+Study Assay Measurement Type	spheroid invasion assay	spheroid invasion assay	spheroid invasion assay		
+Study Assay Measurement Type Term Accession Number					
+Study Assay Measurement Type Term Source REF					
+Study Assay Technology Type	microscopy imaging	microscopy imaging	microscopy imaging		
+Study Assay Technology Type Term Accession Number					
+Study Assay Technology Type Term Source REF					
+Study Assay Technology Platform					
+STUDY PROTOCOLS					
+Study Protocol Name	Appendix II Microscopy.pdf	Appendix III Image analysis (Extended).pdf	Appendix I 3D spheroid culture.pdf	imaging	data transformation
+Study Protocol Type	imaging	data transformation	wet lab	imaging	data transformation
+Study Protocol Type Term Accession Number					
+Study Protocol Type Term Source REF					
+Study Protocol Description	Laser scanning confocal imaging of 3D samples	Segmentation, classification and feature extraction.	3D cell culture, fixation and immunolabeling		
+Study Protocol URI		https://github.com/Mverp/Cell3DMeasurements			
+Study Protocol Version	1	1	1		
+Study Protocol Parameters Name	"imaging sequence type;pixel size;observation period;imaging modality;channel definition;time series interval;objective lens;numerical aperture"	"segmentation;segmentation; SWO"	"3D spheroid culture; Co-culture; hanging drop assay; rattail collagen I; pharmacological inhibitor; PFA fixation; immunofluorescent labeling; YAP mAb; DAPI, phalloidin."	"imaging sequence type;pixel size;observation period;imaging modality;channel definition;time series interval;objective lens;numerical aperture"	
+Study Protocol Parameters Name Term Accession Number	";;;;;;;"	";;"	";;;;;;;;"	";;;;;;;"	
+Study Protocol Parameters Name Term Source REF	";;;;;;;"	";;"	";;;;;;;;"	";;;;;;;"	
+Study Protocol Components Name		"Nucleus localization; nucleus segmentation; cell segmentation; classification of migration modes; feature extraction."	"Preparation of Methylcellulose; Cell culture; Generation of 3D spheroids; Spheroid embedding in 3D collagen; Fixation and immunofluorescent staining; Adaptations of the standardized protocols to other cell lines and organoid culture.   "		
+Study Protocol Components Type					
+Study Protocol Components Type Term Accession Number					
+Study Protocol Components Type Term Source REF					
+STUDY CONTACTS					
+Study Person Last Name	Bakker	Vullings	Erp		
+Study Person First Name	Gert-Jan	Manon	Merijn		
+Study Person Mid Initials			van		
+Study Person Email	gert-jan.bakker@radboudumc.nl	manon.vullings@radboudumc.nl	merijn.vanerp@radboudumc.nl		
+Study Person Phone	+31(0)24 36 14296				
+Study Person Fax					
+Study Person Address					
+Study Person Affiliation	Radboud University Medical Center	Radboud University Medical Center	Radboud University Medical Center		
+Study Person Roles	Coordination, reporting, data analysis	 excecution assay, imaging	 programming and development analysis pipeline		
+Study Person Roles Term Accession Number					
+Study Person Roles Term Source REF					
+Comment[Study Person Identifier]	GJB	MV	MVE		
